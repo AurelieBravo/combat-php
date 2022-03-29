@@ -1,0 +1,16 @@
+body{
+    
+    background-image: url(comb.jpg);
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+p{
+    color: fuchsia;
+}
+a{
+    color:red;
+}
+legend{
+    color: rgb(10, 236, 85);
+}
